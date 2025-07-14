@@ -1,0 +1,15 @@
+# Auto Clicker - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependency for GUI automation
+pyautogui>=0.9.50
+
+# For building executables
+pyinstaller>=5.0.0
+
+# Optional: For enhanced image recognition (if needed in future)
+# opencv-python>=4.5.0
+
+# Development dependencies (optional)
+# flake8>=4.0.0  # For code linting
+# black>=22.0.0  # For code formatting
