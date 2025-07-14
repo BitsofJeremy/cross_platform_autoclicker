@@ -39,7 +39,7 @@ class AutoClickerGUI:
     def setup_window(self):
         """Configure the main window properties."""
         self.root.title("Auto Clicker")
-        self.root.geometry("400x500")
+        self.root.geometry("400x700")
         self.root.resizable(False, False)
         
         # Set window icon and styling based on platform
